@@ -1007,7 +1007,7 @@ Banjo-Kazooie,X360,Platform,Microsoft Game Studios,4J Studios,E,2008.0,0.0,0.01,
 Apocalypse,PS,Action,Activision,unknown,E,1998.0,0.25,0.17,0.0,0.03,0.45,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Minecraft,PS3,Misc,Sony Computer Entertainment,unknown,E,2014.0,2.03,2.37,0.0,0.87,5.26,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 RoadKill,PS2,Action,Midway Games,Terminal Reality,M,2003.0,0.08,0.07,0.0,0.02,0.17,71.0,27.0,7.9,11.0
-"Ni Hao, Kai-lan: New Year's Celebration",DS,Misc,Take-Two Interactive,Take-Two Interactive,EC,2009.0,0.19,0.0,0.0,0.01,0.2,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
+"Ni Hao, Kai-lan: New Year's Celebration",DS,Misc,Take-Two Interactive,Take-Two Interactive,E,2009.0,0.19,0.0,0.0,0.01,0.2,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Medabots: Infinity,GC,Role-Playing,Ubisoft,Imagineer,E,2003.0,0.04,0.01,0.0,0.0,0.05,51.0,6.0,8.0,7.0
 Sherlock Holmes: The Devil's Daughter,PS4,Adventure,Bigben Interactive,Frogwares,T,2016.0,0.01,0.0,0.0,0.0,0.01,70.0,27.0,6.8,64.0
 Quiz Magic Academy DS: Futatsu no Jikuu Koku,DS,Misc,Konami Digital Entertainment,unknown,E,2010.0,0.0,0.0,0.09,0.0,0.09,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
@@ -1641,7 +1641,7 @@ Minecraft: Story Mode,X360,Adventure,Mojang,unknown,E,2015.0,0.48,0.33,0.0,0.08,
 Pro Evolution Soccer 2012,3DS,Action,Konami Digital Entertainment,unknown,E,2011.0,0.02,0.0,0.0,0.0,0.03,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Sangoku Koi Senki: Otome no Heihou!,PS2,Adventure,Prototype,unknown,E,2011.0,0.0,0.0,0.01,0.0,0.01,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 ESPN NFL 2K5,PS2,Sports,Sega,Visual Concepts,E,2004.0,2.15,0.12,0.0,0.36,2.62,90.0,37.0,8.2,84.0
-Nickelodeon Team Umizoomi,DS,Action,Take-Two Interactive,Black Lantern Studios,EC,2011.0,0.42,0.0,0.0,0.03,0.45,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
+Nickelodeon Team Umizoomi,DS,Action,Take-Two Interactive,Black Lantern Studios,E,2011.0,0.42,0.0,0.0,0.03,0.45,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Tomb Raider II,PC,Action,Eidos Interactive,Core Design Ltd.,E,1997.0,0.91,1.25,0.0,0.13,2.29,68.9971185166625,26.440992232523175,8.3,37.0
 Castlevania: Harmony of Dissonance,GBA,Platform,Konami Digital Entertainment,KCET,T,2002.0,0.16,0.06,0.04,0.0,0.26,87.0,27.0,8.2,39.0
 NBA Live 09,PS3,Sports,Electronic Arts,EA Canada,E,2008.0,0.46,0.0,0.02,0.04,0.52,75.0,32.0,7.8,15.0
@@ -1862,7 +1862,7 @@ Allied General,PS,Strategy,SSI,unknown,E,1996.0,0.11,0.07,0.0,0.01,0.19,68.99711
 Mario vs. Donkey Kong,GBA,Puzzle,Nintendo,Nintendo,E,2004.0,0.68,0.25,0.21,0.02,1.17,81.0,43.0,8.0,31.0
 NHL Hitz Pro,PS2,Sports,Midway Games,Next Level Games,E,2003.0,0.09,0.07,0.0,0.02,0.19,79.0,23.0,8.9,13.0
 James Cameron's Dark Angel,XB,Action,Vivendi Games,Radical Entertainment,T,2002.0,0.05,0.02,0.0,0.0,0.07,47.0,17.0,8.3,6.0
-Dora the Explorer: Journey to the Purple Planet,PS2,Adventure,Global Star,Take-Two Interactive,EC,2005.0,0.12,0.09,0.0,0.03,0.24,68.9971185166625,26.440992232523175,7.0,4.0
+Dora the Explorer: Journey to the Purple Planet,PS2,Adventure,Global Star,Take-Two Interactive,E,2005.0,0.12,0.09,0.0,0.03,0.24,68.9971185166625,26.440992232523175,7.0,4.0
 Wipeout 2,3DS,Misc,Activision,Endemol,E,2011.0,0.22,0.0,0.0,0.01,0.23,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 101-in-1 Sports Party Megamix,Wii,Sports,Nordcurrent,Nordcurrent,E10+,2010.0,0.02,0.0,0.0,0.0,0.03,41.0,7.0,7.126899879372738,163.0088459991958
 Silpheed: The Lost Planet,PS2,Shooter,Swing! Entertainment,Treasure,T,2000.0,0.03,0.03,0.0,0.01,0.07,72.0,12.0,7.5,4.0
@@ -5508,7 +5508,7 @@ Pariah,XB,Action,Hip Interactive,Digital Extremes,M,2005.0,0.08,0.02,0.0,0.0,0.1
 NCAA Football 2001,PS,Sports,Electronic Arts,unknown,E,2000.0,0.39,0.26,0.0,0.05,0.7,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Imagine: Makeup Artist,DS,Simulation,Ubisoft,Ubisoft,E,2020.0,0.27,0.0,0.0,0.02,0.29,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Q*bert,2600,Puzzle,Parker Bros.,unknown,E,1982.0,0.55,0.03,0.0,0.01,0.58,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
-Sesame Street: Elmo's A-to-Zoo Adventure,Wii,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,EC,2010.0,0.35,0.0,0.0,0.02,0.38,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
+Sesame Street: Elmo's A-to-Zoo Adventure,Wii,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,E,2010.0,0.35,0.0,0.0,0.02,0.38,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Puzzle & Action: Tant-R,GEN,Misc,Sega,unknown,E,1994.0,0.0,0.0,0.03,0.0,0.03,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 KuruKuru Kururin,GBA,Puzzle,Nintendo,unknown,E,2001.0,0.0,0.0,0.3,0.01,0.31,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Circus Maximus: Chariot Wars,XB,Racing,THQ,Kodiak Interactive,T,2002.0,0.05,0.02,0.0,0.0,0.07,67.0,26.0,5.0,4.0
@@ -7536,7 +7536,7 @@ Happy Cooking,DS,Simulation,Ubisoft,Ubisoft,E,2006.0,0.17,0.0,0.0,0.01,0.18,68.9
 Eagle Flight,PS4,Adventure,Ubisoft,"Ubisoft, FunHouse",E10+,2016.0,0.01,0.05,0.0,0.01,0.07,72.0,31.0,7.8,22.0
 Buffy the Vampire Slayer,XB,Action,Electronic Arts,Double Helix Games,T,2002.0,0.18,0.05,0.0,0.01,0.23,79.0,30.0,9.1,31.0
 NASCAR 2011: The Game,X360,Racing,Activision,Eutechnyx,E,2011.0,0.29,0.0,0.0,0.02,0.3,62.0,24.0,4.1,14.0
-Theme Hospital,PC,Strategy,Electronic Arts,Bullfrog Productions,K-A,1997.0,2.3,0.1,0.0,0.0,2.4,68.9971185166625,26.440992232523175,9.0,90.0
+Theme Hospital,PC,Strategy,Electronic Arts,Bullfrog Productions,E,1997.0,2.3,0.1,0.0,0.0,2.4,68.9971185166625,26.440992232523175,9.0,90.0
 Godzilla: Domination!,GBA,Fighting,Atari,unknown,E,2002.0,0.2,0.07,0.0,0.01,0.28,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Street Fighter V,PS4,Fighting,Capcom,Capcom,T,2016.0,0.4,0.28,0.08,0.14,0.9,77.0,80.0,3.4,1221.0
 Virtua Tennis 2009,X360,Sports,Sega,Sumo Digital,E,2009.0,0.12,0.18,0.0,0.03,0.33,70.0,43.0,6.2,15.0
@@ -8696,7 +8696,7 @@ Choujikuu Yousai Macross: Do You Remember Love,PS3,Shooter,Namco Bandai Games,un
 Cars,X360,Racing,THQ,Rainbow Studios,E,2006.0,0.22,0.01,0.0,0.02,0.25,65.0,16.0,6.1,8.0
 Assassin's Creed II,PS3,Action,Ubisoft,Ubisoft Montreal,M,2009.0,2.54,1.93,0.21,0.86,5.55,91.0,70.0,8.6,1202.0
 Okaeri! Chibi-Robo! Happy Richie Oosouji,DS,Adventure,Nintendo,unknown,E,2009.0,0.0,0.0,0.14,0.0,0.14,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
-Dora the Explorer: Journey to the Purple Planet,GC,Adventure,Global Star,Take-Two Interactive,EC,2005.0,0.09,0.02,0.0,0.0,0.12,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
+Dora the Explorer: Journey to the Purple Planet,GC,Adventure,Global Star,Take-Two Interactive,E,2005.0,0.09,0.02,0.0,0.0,0.12,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Ridge Racer V,PS2,Action,Namco Bandai Games,Namco,E,2000.0,0.24,0.19,0.75,0.06,1.24,78.0,20.0,7.7,6.0
 Vitamin X,PS2,Adventure,D3Publisher,unknown,E,2007.0,0.0,0.0,0.01,0.0,0.01,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Let's Yoga!,DS,Misc,Konami Digital Entertainment,Vanpool,E,2007.0,0.0,0.0,0.02,0.0,0.02,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
@@ -9602,7 +9602,7 @@ Life is Strange,PS4,Adventure,Square Enix,DONTNOD Entertainment,M,2016.0,0.15,0.
 How to Train Your Dragon,X360,Action,Activision,Etranges Libellules,E10+,2010.0,0.11,0.02,0.0,0.01,0.14,58.0,23.0,7.6,10.0
 FIFA Soccer 08,X360,Sports,Electronic Arts,EA Canada,E,2007.0,0.31,0.89,0.01,0.14,1.35,82.0,43.0,7.9,57.0
 ESPN NHL Hockey,PS2,Sports,Sega,Kush Games,E,2003.0,0.11,0.09,0.0,0.03,0.23,90.0,19.0,7.0,22.0
-Sesame Street: Cookie's Counting Carnival,PC,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,EC,2010.0,0.05,0.0,0.0,0.0,0.05,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
+Sesame Street: Cookie's Counting Carnival,PC,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,E,2010.0,0.05,0.0,0.0,0.0,0.05,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Whiteout,PS2,Racing,Konami Digital Entertainment,Vicarious Visions,T,2002.0,0.01,0.01,0.0,0.0,0.02,50.0,12.0,7.126899879372738,163.0088459991958
 Warhammer: Shadow of the Horned Rat,PS,Strategy,Mindscape,unknown,E,1996.0,0.11,0.07,0.0,0.01,0.19,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Metro: Last Light,PC,Action,Deep Silver,4A Games,M,2013.0,0.06,0.11,0.0,0.02,0.19,82.0,71.0,8.6,2654.0
@@ -9990,7 +9990,7 @@ Tsuki ni Yori Sou Otome no Sahou: Hidamari no Hibi,PSV,Adventure,dramatic create
 Shin Hayarigami 2,PSV,Adventure,Nippon Ichi Software,unknown,E,2016.0,0.0,0.0,0.02,0.0,0.02,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 FairlyLife: MiracleDays,PSP,Adventure,Piacci,unknown,E,2010.0,0.0,0.0,0.01,0.0,0.01,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Mobile Suit Gundam: Crossfire,PS3,Simulation,Namco Bandai Games,Bec,T,2006.0,0.06,0.0,0.14,0.01,0.2,33.0,31.0,5.1,47.0
-Worms 2,PC,Strategy,Microprose,Team 17,K-A,1997.0,0.0,0.01,0.0,0.0,0.01,68.9971185166625,26.440992232523175,8.1,12.0
+Worms 2,PC,Strategy,Microprose,Team 17,E,1997.0,0.0,0.01,0.0,0.0,0.01,68.9971185166625,26.440992232523175,8.1,12.0
 Digimon Digital Card Battle,PS,Strategy,Namco Bandai Games,Bandai,T,1999.0,0.06,0.04,0.0,0.01,0.11,51.0,5.0,9.0,44.0
 Phantasy Star Universe: Ambition of the Illuminus,PS2,Role-Playing,Sega,Sonic Team,T,2007.0,0.1,0.08,0.05,0.03,0.26,68.9971185166625,26.440992232523175,8.4,8.0
 Yamakawa Shuppansha Kanshuu: Shousetsu Sekaishi B,DS,Misc,Namco Bandai Games,unknown,E,2007.0,0.0,0.0,0.08,0.0,0.08,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
@@ -11063,7 +11063,7 @@ Rocksmith 2014,XOne,Misc,Ubisoft,unknown,E,2014.0,0.29,0.08,0.0,0.04,0.41,68.997
 Indigo Prophecy,PC,Adventure,Atari,Quantic Dream,M,2005.0,0.0,0.02,0.0,0.0,0.02,85.0,41.0,8.3,375.0
 PAC-MAN and the Ghostly Adventures,X360,Platform,Namco Bandai Games,"Namco Bandai Games, Monkey Bar Games",E10+,2013.0,0.04,0.03,0.0,0.01,0.08,49.0,7.0,5.1,13.0
 Big League Sports: Summer,DS,Sports,Activision,Koolhaus Games,E,2009.0,0.09,0.0,0.0,0.01,0.11,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
-PaRappa The Rapper,PS,Misc,Sony Computer Entertainment,NanaOn-Sha,K-A,1996.0,0.26,0.16,1.46,0.03,1.92,92.0,15.0,7.4,48.0
+PaRappa The Rapper,PS,Misc,Sony Computer Entertainment,NanaOn-Sha,E,1996.0,0.26,0.16,1.46,0.03,1.92,92.0,15.0,7.4,48.0
 Prince of Persia: Revelations,PSP,Adventure,Ubisoft,unknown,E,2005.0,0.18,0.01,0.0,0.02,0.21,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 One Piece: Unlimited World Red,3DS,Action,Namco Bandai Games,Ganbarion,T,2013.0,0.05,0.04,0.28,0.01,0.39,75.0,5.0,7.6,26.0
 Speed,Wii,Racing,Unknown,Zoo Games,E,2010.0,0.04,0.02,0.0,0.01,0.06,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
@@ -11421,7 +11421,7 @@ Star X,GBA,Shooter,BAM! Entertainment,Graphic State,E,2002.0,0.03,0.01,0.0,0.0,0
 Pool Party,Wii,Sports,SouthPeak Games,SouthPeak Games,E,2007.0,0.04,0.0,0.0,0.0,0.05,32.0,13.0,0.7,6.0
 Electroplankton,DS,Misc,Nintendo,Indies Zero,E,2005.0,0.01,0.0,0.02,0.0,0.03,71.0,49.0,7.0,37.0
 Disney Princess,GBA,Platform,THQ,Art,E,2003.0,1.04,0.37,0.0,0.06,1.47,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
-Sesame Street: Elmo's A-to-Zoo Adventure,PC,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,EC,2010.0,0.04,0.0,0.0,0.0,0.05,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
+Sesame Street: Elmo's A-to-Zoo Adventure,PC,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,E,2010.0,0.04,0.0,0.0,0.0,0.05,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Yu-Gi-Oh! The Eternal Duelist Soul,GBA,Strategy,Konami Digital Entertainment,unknown,E,2001.0,1.64,0.36,0.0,0.07,2.07,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Max Payne 2: The Fall of Max Payne,PC,Shooter,Take-Two Interactive,Remedy Entertainment,M,2003.0,0.0,0.02,0.0,0.0,0.03,86.0,46.0,9.0,802.0
 EA Sports Active 2,Wii,Sports,Electronic Arts,EA Canada,E,2010.0,0.76,0.39,0.0,0.11,1.26,79.0,8.0,8.1,22.0
@@ -12547,7 +12547,7 @@ Diablo II: Lord of Destruction,PC,Role-Playing,Vivendi Games,Blizzard North,M,20
 Norn + Nonette: Last Era,PSV,Action,Idea Factory,unknown,E,2015.0,0.0,0.0,0.01,0.0,0.01,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Soul Edge,PS,Fighting,Sony Computer Entertainment,unknown,E,1996.0,0.61,0.41,0.46,0.1,1.59,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Power Rangers: Dino Thunder,PS2,Action,THQ,Pacific Coast Power & Light,E,2004.0,0.35,0.27,0.0,0.09,0.71,49.0,6.0,6.2,5.0
-Sesame Street: Cookie's Counting Carnival,Wii,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,EC,2010.0,0.27,0.0,0.0,0.02,0.29,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
+Sesame Street: Cookie's Counting Carnival,Wii,Misc,Warner Bros. Interactive Entertainment,Black Lantern Studios,E,2010.0,0.27,0.0,0.0,0.02,0.29,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Parodius,SAT,Shooter,Konami Digital Entertainment,unknown,E,1995.0,0.0,0.0,0.16,0.0,0.17,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Ten Pin Alley 2,GBA,Sports,XS Games,Pronto Games,E,2004.0,0.01,0.0,0.0,0.0,0.01,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
 Krull,2600,Action,Atari,unknown,E,1982.0,0.13,0.01,0.0,0.0,0.14,68.9971185166625,26.440992232523175,7.126899879372738,163.0088459991958
